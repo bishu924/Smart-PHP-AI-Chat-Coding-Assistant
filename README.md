@@ -63,8 +63,8 @@ Choose whichever method fits your setup:
    - Click the green **`<> Code`** button at the top of this GitHub page and select **Download ZIP**, then extract the folder.
    - Or clone with Git:
      ```bash
-     git clone https://github.com/your-username/your-repo-name.git
-     cd your-repo-name
+     git clone https://github.com/bishu924/Smart-PHP-AI-Chat-Coding-Assistant.git
+     cd Smart-PHP-AI-Chat-Coding-Assistant
      ```
 2. **Start the PHP server:**
    Open Terminal / Command Prompt inside the extracted folder and run:
